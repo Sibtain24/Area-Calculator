@@ -1,4 +1,4 @@
-# Area Calculator for Common 2D & 3D Shapes (Mini Project)
+# Area Calculator for Common 2D & 3D Shapes (Mini-Project)
 
 This is a Calculator program created using Python, that calculates the Area/Surface area of common shapes like Square, Rectangle, Circle, Sphere, Hemisphere, Cube, Cuboid, Cone etc. The results are mathematically accurate.
 
